@@ -80,8 +80,10 @@ Git을 이용하여 사용자에게 GUI(Graphic User System)을 제공하는 오
 
 ## Markdown 
 **참고자료**
--[Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/)
--[Emoji icon Cheat Sheet](http://www.emoji-cheat-sheet.com/)
+
+- [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/)
+
+- [Emoji icon Cheat Sheet](http://www.emoji-cheat-sheet.com/)
 
 ### 문법
 - Headers
