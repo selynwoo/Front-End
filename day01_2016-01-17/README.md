@@ -48,4 +48,20 @@ Git을 이용하여 사용자에게 GUI(Graphic User System)을 제공하는 오
 > ![Github Download](../Resources/images/github-download.png)
 
 
+### 저장소 만들기
+**1. Github 사이트에서 만들기**
+> 1) your profile[우측상단] > Repositories 탭에서 `NEW` 버튼 클릭!
+> 2) 저장소 이름과 설명을 입력하고 `Create repository` 클릭!
+> 3) `Local Application`으로 돌아간 후 `Clone 탭`에서 생성한 저장소를 `Clone Repository`
+
+> ![Create Repositories](../Resources/images/github-new.png)
+
+***
+> ![Create Repositories](../Resources/images/github-new-detail.png)
+
+***
+> ![Create Repositories](../Resources/images/github-local-application-clone.png)
+
+**2. `Github Local Application`에서 만들기**
+
 
