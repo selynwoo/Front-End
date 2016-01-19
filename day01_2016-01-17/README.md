@@ -94,12 +94,42 @@ Git을 이용하여 사용자에게 GUI(Graphic User System)을 제공하는 오
 ###### Hello Markdown!
 ```
 
--Emphasis(강조)
+- Emphasis(강조)
 ```md
 *This text will be italic*
 _This will also be italic_
 __This will also be bold__
 _You **can** combine them_
 ```
+
+- List
+```md
+* 메뉴1
+* 메뉴2
+  + 메뉴2-1
+  + 메뉴2-2
+
+1. 메뉴1
+  - 메뉴1-1
+  - 메뉴1-2
+2. 메뉴2
+  - 메뉴2-1
+  - 메뉴2-2
+```
+
+- Images, Links
+```md
+![Markdown Logo](http://www.mollieandfred.co.uk/images/sass-belle-pug-money-box-p3368-4608_zoom.jpg)
+[![Build](https://travis-ci.org/angular/angular.js.svg)](http://www.youtube.com)
+[Bioshock](https://www.youtube.com/watch?v=5qa_xNPNz3w)
+```
+
+- Blockquotes
+```md
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio accusamus vel, cumque labore officia consequuntur veniam et ullam dolore minima.
+```
+
+- Inline Code, Syntax Highlighting
+![Code Highlighting](../Resources/images/markdown-highlighting.png)
 
 
