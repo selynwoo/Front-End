@@ -20,14 +20,19 @@ SVN은 중앙 저장소에 인터넷연결이 되어있지 않거나, 자료가 
 **참고 자료**
  - [Git Book 한국어](https://git-scm.com/book/ko/v2) : Git에 대한 자세한 내용
 
- <br>
+<br>
 
- ### Git 설치하기
+### Git 설치
 [Git 다운로드](https://git-scm.com) 
 > ![Git Download](../Resources/images/git-download.png)
 
+<br>
 
-
+### Git 버전확인
+Git 설치 후 확인 
+- Mac : Terminal 에서 `git --version` 입력. 
+- window : 'Git-Bash' 실행 하여 `git --version` 입력.
+> ![Git version](../Resources/images/git-version.png)
 
 
 
