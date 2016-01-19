@@ -64,6 +64,16 @@ Git을 이용하여 사용자에게 GUI(Graphic User System)을 제공하는 오
 ***
 ![Create Repositories](../Resources/images/github-local-application-clone.png)
 
+<br>
 **2. `Github Local Application`에서 만들기**
+1) 왼쪽 상단의 `+` 버튼을 누른 후 Create탭에서 생성할 저장소의 이름을 입력하고 `Create Repository`<br>
+2) 오른쪽 상단의 `Publish`, 웹서버와 로컬서버의 저장소가 동기화 된다.<br>
+
+![Create Repositories](../Resources/images/github-local-application-new.png)
+
+***
+
+![Create Repositories](../Resources/images/github-local-application-new-publish.png)
+
 
 
