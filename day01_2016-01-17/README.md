@@ -132,4 +132,40 @@ _You **can** combine them_
 - Inline Code, Syntax Highlighting
 ![Code Highlighting](../Resources/images/markdown-highlighting.png)
 
+- Task Lists
+```md
+- [x] 포토샵
+- [ ] 일러스트
+- [ ] 스케치
+```
+- Tables
+```md
+단어 | 설명
+----|----
+ul | Unordered list
+ol | Ordered list
+li | List item
+```
+
+- Emoji Icons (for Github)
+```md
+:sunglasses:
+:musical_note:
+:smile:
+:runner:
+```
+- Horizontal Rules
+```md
+* * *
+
+***
+
+*****
+
+- - -
+
+---
+```
+
+
 
