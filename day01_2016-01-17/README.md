@@ -52,9 +52,9 @@ Git을 이용하여 사용자에게 GUI(Graphic User System)을 제공하는 오
 ### 저장소 만들기
 **1. Github 사이트에서 만들기**
 
-1) your profile[우측상단] > Repositories 탭에서 `NEW` 버튼 클릭!<br>
-2) 저장소 이름과 설명을 입력하고 `Create repository` 클릭!<br>
-3) `Local Application`으로 돌아간 후 `Clone 탭`에서 생성한 저장소를 `Clone Repository`<br>
+ 1) your profile[우측상단] > Repositories 탭에서 `NEW` 버튼 클릭!<br>
+ 2) 저장소 이름과 설명을 입력하고 `Create repository` 클릭!<br>
+ 3) `Local Application`으로 돌아간 후 `Clone 탭`에서 생성한 저장소를 `Clone Repository`<br>
 
 ![Create Repositories](../Resources/images/github-new.png)
 
@@ -65,9 +65,11 @@ Git을 이용하여 사용자에게 GUI(Graphic User System)을 제공하는 오
 ![Create Repositories](../Resources/images/github-local-application-clone.png)
 
 <br>
+
 **2. `Github Local Application`에서 만들기**
-1) 왼쪽 상단의 `+` 버튼을 누른 후 Create탭에서 생성할 저장소의 이름을 입력하고 `Create Repository`<br>
-2) 오른쪽 상단의 `Publish`, 웹서버와 로컬서버의 저장소가 동기화 된다.<br>
+
+ 1) 왼쪽 상단의 `+` 버튼을 누른 후 Create탭에서 생성할 저장소의 이름을 입력하고 `Create Repository`<br>
+ 2) 오른쪽 상단의 `Publish`, 웹서버와 로컬서버의 저장소가 동기화 된다.<br>
 
 ![Create Repositories](../Resources/images/github-local-application-new.png)
 
