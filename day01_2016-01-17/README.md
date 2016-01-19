@@ -26,7 +26,7 @@ SVN은 중앙 저장소에 인터넷연결이 되어있지 않거나, 자료가 
 [Git 다운로드](https://git-scm.com) 
 - Mac Os의 경우 dmg 파일로서 실행하여 따로 설치하지 않아도 된다.
 
-> ![Git Download](../Resources/images/git-download.png)
+![Git Download](../Resources/images/git-download.png)
 
 <br>
 
@@ -34,7 +34,7 @@ SVN은 중앙 저장소에 인터넷연결이 되어있지 않거나, 자료가 
 Git 설치 후 확인 
 - Mac : Terminal 에서 `git --version` 입력. 
 - window : 'Git-Bash' 실행 하여 `git --version` 입력.
-> ![Git version](../Resources/images/git-version.png)
+![Git version](../Resources/images/git-version.png)
 
 <br>
 
@@ -45,14 +45,15 @@ Git을 이용하여 사용자에게 GUI(Graphic User System)을 제공하는 오
 
 ### Github 설치
 [Github 다운로드](https://www.github.com)
-> ![Github Download](../Resources/images/github-download.png)
+![Github Download](../Resources/images/github-download.png)
 
+<br>
 
 ### 저장소 만들기
 **1. Github 사이트에서 만들기**
-> 1) your profile[우측상단] > Repositories 탭에서 `NEW` 버튼 클릭!
-> 2) 저장소 이름과 설명을 입력하고 `Create repository` 클릭!
-> 3) `Local Application`으로 돌아간 후 `Clone 탭`에서 생성한 저장소를 `Clone Repository`
+1) your profile[우측상단] > Repositories 탭에서 `NEW` 버튼 클릭!
+2) 저장소 이름과 설명을 입력하고 `Create repository` 클릭!
+3) `Local Application`으로 돌아간 후 `Clone 탭`에서 생성한 저장소를 `Clone Repository`
 
 > ![Create Repositories](../Resources/images/github-new.png)
 
