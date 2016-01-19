@@ -24,6 +24,8 @@ SVN은 중앙 저장소에 인터넷연결이 되어있지 않거나, 자료가 
 
 ### Git 설치
 [Git 다운로드](https://git-scm.com) 
+- Mac Os의 경우 dmg 파일로서 실행하여 따로 설치하지 않아도 된다.
+
 > ![Git Download](../Resources/images/git-download.png)
 
 <br>
@@ -33,6 +35,17 @@ Git 설치 후 확인
 - Mac : Terminal 에서 `git --version` 입력. 
 - window : 'Git-Bash' 실행 하여 `git --version` 입력.
 > ![Git version](../Resources/images/git-version.png)
+
+<br>
+
+## Github
+Git을 이용하여 사용자에게 GUI(Graphic User System)을 제공하는 오픈소스이며, `public`이 아닌 `private`을 이용하려면 별도의 요금이 필요하다. 해외의 모든 프로젝트는 Github를 이용한다는 말이 있을 정도로 그만큼 많은 기업들이 오픈프로젝트에 Github를 사용하고 있다.
+
+<br>
+
+### Github 설치
+[Github 다운로드](https://www.github.com)
+> ![Github Download](../Resources/images/github-download.png)
 
 
 
