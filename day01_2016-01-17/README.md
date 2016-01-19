@@ -167,5 +167,10 @@ li | List item
 ---
 ```
 
+## 기타
+- stacks
+- JS : CPU 로드
+- CSS : GPU 로드 
+
 
 
