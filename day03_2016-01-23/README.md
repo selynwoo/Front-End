@@ -53,3 +53,13 @@
 
 
 ## Sublime text
+
+- **기능 & 단축키**
+ - [(Mac) 서브라임 텍스트 기능 및 단축키](sublime/(Mac) sublime - shortcuts.md)
+ - [(Window) 서브라임 텍스트 기능 및 단축키](sublime/(Window) sublime - shortcuts.md)
+
+- **패키지**
+ - [Useful Package List](plugin/Plugin List.md)
+
+- ** 스티펫&메크로**
+ - [스티펫 간단한 사용법](snippet/Snippet setting.md)
