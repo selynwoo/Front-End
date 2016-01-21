@@ -61,5 +61,5 @@
 - **패키지**
  - [Useful Package List](plugin/Plugin List.md)
 
-- ** 스티펫&메크로**
+- **스티펫&메크로**
  - [스티펫 간단한 사용법](snippet/Snippet setting.md)
