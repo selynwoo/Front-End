@@ -49,3 +49,8 @@ KeyPress | Command
 <kbd>Ctrl + K, Ctrl + 1</kbd> | 코드 전체 접기(Fold All)
 <kbd>Ctrl + K, Ctrl + [1,2,3,...,9]</kbd> | 코드 레벨별 접기(Fold Level)
 
+## 선택(Selection)
+KeyPress | Command
+-------- | --------
+<kbd>Ctrl + 👆</kbd>
+
