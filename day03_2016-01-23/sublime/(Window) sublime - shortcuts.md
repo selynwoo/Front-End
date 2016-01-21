@@ -52,5 +52,14 @@ KeyPress | Command
 ## 선택(Selection)
 KeyPress | Command
 -------- | --------
-<kbd>Ctrl + 👆</kbd>
+<kbd>Ctrl + 👆</kbd> | 멀티커서
+<kbd>Ctrl + Alt + ↑</kbd> | 멀티라인 커서 - 위의 라인에 커서 추가(Extra cursor on the line above)
+<kbd>Ctrl + Alt + ↓</kbd> | 멀티라인 커서 - 아래 라인에 커서 추가(Extra cursor on the line below)
+<kbd>Ctrl + D</kbd> | 단어 선택 후 다음 단어 선택 반복(Select word - Repeat to select next occurrence)
+<kbd>Ctrl + L</kbd> | 라인 선택 후 다음 행 선택 반복(Select line - Repeat to select next lines)
+<kbd>Ctrl + A</kbd> | 전체 선택(Select All)
+<kbd>Ctrl + Shift + Space</kbd> | 범위로 선택을 확장(Expand Selection to scope)
+<kbd>Ctrl + Shift + M</kbd> | 괄호로 선택을 확장(Expand Selection to brackets) - JS
+<kbd>Ctrl + Shift + J</kbd> | 들여쓰기로 선택을 확장(Expand Selection to indentation) - CSS
+<kbd>Ctrl + Shift + A</kbd> | 태그 선택을 확장(Expand Selection to tag) - HTML
 
