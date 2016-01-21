@@ -3,3 +3,4 @@
 
 - **Git & Github & Markdown** ([day01_2016-01-17](day01_2016-01-17/README.md))
 - **Github & GitPages & Gist & GitBook** ([day02_2016-01-20](day02_2016-01-20/README.md))
+- **Photoshop & Sublime text** ([day03_2016-01-23](day03_2016-01-23/README.md))
