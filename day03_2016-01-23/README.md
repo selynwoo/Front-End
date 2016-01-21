@@ -6,13 +6,13 @@
 
 - **좋지 않은 사례의 Layer**
 
- - [kakao-story](../Resources/img/kakao-story.png)
- - [hangame-archlord](../Resources/img/hangame-archlord.png)
- - [naver-mileage](../Resources/img/naver-mileage.png)
+ - [kakao-story](../Resources/images/kakao-story.png)
+ - [hangame-archlord](../Resources/images/hangame-archlord.png)
+ - [naver-mileage](../Resources/images/naver-mileage.png)
 
 - **좋은 사례의 Layer**
  
- - [daily-magazine](../Resources/img/daily-magazine.png)
- - [frostbite](../Resources/img/frostbite.png)
+ - [daily-magazine](../Resources/images/daily-magazine.png)
+ - [frostbite](../Resources/images/frostbite.png)
 
 ## Sublime text
