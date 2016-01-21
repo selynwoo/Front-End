@@ -27,4 +27,12 @@ Github는 프로젝트 단위로 파일들을 관리, Gist는 파일 단위로 �
 ## [GitBook](https://www.gitbook.com/)
 Markdown을 이용하여 개발문서, API 등을 제작할 수 있으며 `Github의 GitPages`처럼 도메인을 제공하여 실시간으로 웹에서도 작성이 가능하다. 
 
+- **[Git Download](https://www.gitbook.com/editor/)**
 
+![Create Gist](../Resources/images/git-book1.jpg)
+
+- **From Wep**
+
+![Create Gist](../Resources/images/git-book2.jpg)
+
+![Create Gist](../Resources/images/git-book3.jpg)
