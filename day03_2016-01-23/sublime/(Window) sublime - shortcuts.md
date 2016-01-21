@@ -63,3 +63,65 @@ KeyPress | Command
 <kbd>Ctrl + Shift + J</kbd> | 들여쓰기로 선택을 확장(Expand Selection to indentation) - CSS
 <kbd>Ctrl + Shift + A</kbd> | 태그 선택을 확장(Expand Selection to tag) - HTML
 
+## 빠른이동(Navigation/Goto Anywhere)
+Keypress | Command
+-------- | -------
+<kbd>Ctrl + P</kbd>            | 현재 프로젝트의 모든 폴더 탐색(Quick-open files by name), ※ "@"기호 사용시 단어탐색도 동시 사용 가능
+<kbd>Ctrl + R</kbd>            | 현재 파일의 단어 탐색(Goto symbol / Goto word in current file)
+<kbd>Ctrl + Shift + R</kbd>    | 현재 프로젝트에서 단어 탐색(Goto symbole in project)
+<kbd>Ctrl + G</kbd>            | 현재 파일의 라인 이동(Goto line in current file)
+<kbd>Ctrl + PageDown</kbd>     | 다음 파일(Next File)
+<kbd>Ctrl + PageUp</kbd>       | 이전 파일(Previous FIle)
+<kbd>Ctrl + Tab</kbd>          | 현재 레이아웃에서의 다음 파일, 즉 열린 순서를 기억하여 순차탭(Next File in Stack)
+<kbd>Ctrl + Shift + Tab</kbd>  | 현재 레이아웃에서의 이전 파일, 즉 열린 순서를 기억하여 순차탭(Previous File in Stack)
+<kbd>Alt + [1,2,3,...]</kbd>   | 현재 열려있는 파일의 번호를 순차적으로 붙여 해당 번호의 파일로 이동(Select Number File)
+<kbd>Ctrl + K, Ctrl + C</kbd>  | 현재 커서(또는 선택) 위치로 스크롤 이동(Scroll to Selection)
+<kbd>Ctrl + ↑</kbd>            | 현재 커서를 기점으로 페이지의 화면 스크롤 위로 이동(Line Up)
+<kbd>Ctrl + ↓</kbd>            | 현재 커서를 기점으로 페이지의 화면 스크롤 아래로 이동(Line Down)
+<kbd>Ctrl + M</kbd>            | 괄호 시작점과 끝점으로 이동(Jump to Matching Bracket)
+
+## 찾기/바꾸기(Find/Replace)
+Keypress | Command
+-------- | -------
+<kbd>Ctrl + F</kbd>            | 찾기(Find)
+<kbd>F3</kbd>                  | 다음 찾기(Find Next)
+<kbd>Shift + F3</kbd>          | 이전 찾기(Find Previous)
+<kbd>Alt + Enter</kbd>         | "찾기 모드"에서 전체 찾기(Find All)
+<kbd>Ctrl + I</kbd>            | 향상된 찾기(Incremental Find)
+<kbd>Ctrl + H</kbd>            | 찾아 바꾸기(Replace)
+<kbd>Ctrl + Shift + H</kbd>    | 다음 바꾸기(Replace Next), ※ 바꿀단어를 미리 정의해야 하므로 약간 비효율적임
+<kbd>Ctrl + F3</kbd>           | 빠른 찾기(Quick Find)
+<kbd>Alt + F3</kbd>            | 빠른 모두 찾기(Quick Find All)
+<kbd>Ctrl + D</kbd>            | 다음 단어 탐색(Quick Add Next)
+<kbd>Ctrl + K, Ctrl + D</kbd>  | 한 번 건너띈후 다음 단어 탐색(Quick Skip Next)
+<kbd>Ctrl + Shift + F</kbd>    | 현재 프로젝트의 모든 파일에서 탐색(Find in Files)
+<kbd>Ctrl + E</kbd>            | 찾기 선택자(Use Selection for Find)
+<kbd>Ctrl + Shift + E</kbd>    | 대체 선택자(Use Selection for Replace)
+<kbd>F4</kbd>                  | "파일 탐색 결과화면에서" 다음 찾기(Next Result)
+<kbd>Shift + F4</kbd>          | "파일 탐색 결과화면에서" 이전 찾기(Previous Result)
+
+## 탭 패널(Tabs Panels)
+Keypress | Command
+-------- | -------
+<kbd>Alt + Shift + 1</kbd>       | 한개의 화면(Revert view to single column)
+<kbd>Alt + Shift + 2</kbd>       | 2개의 화면(Split view into two columns)
+<kbd>Alt + Shift + 3</kbd>       | 3개의 화면(Split view into three columns)
+<kbd>Alt + Shift + 4</kbd>       | 4개의 화면(Split view into four columns)
+<kbd>Alt + Shift + 5</kbd>       | 4개의그리드(Set view to gird 4 groups)
+<kbd>Alt + Shift + 8</kbd>       | 가로 2개 화면(2 Rows)
+<kbd>Alt + Shift + 9</kbd>       | 가로 3개 화면(3 Rows)
+<kbd>Ctrl + Shift + Number</kbd> | 현재 파일을 원하는 화면의 그룹으로 이동
+<kbd>Ctrl + Number</kbd>         | 해당 그룹으로 포커스 이동
+
+## 북마크(Bookmarks)
+Keypress | Command
+-------- | -------
+<kbd>Ctrl + F2</kbd>         | (Toggle bookmark)
+<kbd>F2</kbd>                | (Next bookmark)
+<kbd>Shift + F2</kbd>        | (Previous bookmark)
+<kbd>Ctrl + Shift + F2</kbd> | (Clear bookmark)
+
+## 프로젝트(Project)
+Keypress | Command
+-------- | -------
+<kbd>Ctrl + Alt + P</kbd> | Quick Switch Project
