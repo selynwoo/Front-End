@@ -20,8 +20,6 @@ Github의 Repositories를 이용하여 Github 2차 도메인을 사용할 수 �
 ## [Gist](https://gist.github.com/discover)
 Github는 프로젝트 단위로 파일들을 관리, Gist는 파일 단위로 코드 관리 
 
-_Gist 작성_
-
 ![Create Gist](../Resources/images/gist_1.jpg)
 ![Create Gist](../Resources/images/gist_2.jpg)
 
