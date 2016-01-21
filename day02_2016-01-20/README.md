@@ -13,6 +13,7 @@
 _Create Branch_
 
 ![Create Branch](../Resources/images/branch.jpg)
+![Git Download](../Resources/images/git-download.png)
 
 ## [GitPages](https://pages.github.com/)
 Github의 Repositories를 이용하여 Github 2차 도메인을 사용할 수 있다. 
