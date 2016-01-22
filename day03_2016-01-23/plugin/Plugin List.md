@@ -1,4 +1,46 @@
 # plugin List
 
 - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) : 사이드 바의 기능을 강화한 패키지 
-  - `{ "key": ["super+.", "super+r"], "command": "side_bar_rename" }`
+  - `{ "keys": ["super+.", "super+r"], "command": "side_bar_rename" }`
+  - `{ "keys": ["super+.", "super+m"], "command": "side_bar_move" }`
+  - `{ "keys": ["super+.", "super+d"], "command": "side_bar_delete" }`
+  - `{ "keys": ["super+.", "super+b"], "command": "side_bar_open_in_browser" }`
+
+- [Material Theme](https://github.com/equinusocio/material-theme) : Material Design Theme
+- [ColorPicker](http://weslly.github.io/ColorPicker/) : Sublime Text에 색상 선택기 지원
+  - `super+ctrl+c`
+- [ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter) : 색상표시
+- [Alignment](https://packagecontrol.io/packages/Alignment) : 특정 분자를 기준으로 코드 정렬
+  - `super+ctrl+a`
+- [AlignTab](https://github.com/randy3k/AlignTab) : 정규표현식을 이용하여 정렬
+  - `{ "keys": ["super+.", "super+a"], "command": "align_tab", "args" : {"live_preview" : true} }`
+- [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) : 대괄호 `[]`, 중괄호`{}`, 소괄호`()`, 쌍따옴표'""', 홀따옴표`''`, 태그`<tag></tag>`를 활용하여 코드확인 용이 하도록 하는 패키지
+- [DocBlockr](https://github.com/spadgos/sublime-jsdocs) : Javascript & PHP & CoffeeScript등 스크립트 코드 주석 작성시, 편리하게 주성을 작성할 수 있는 패키지
+- [SublimeLinter](http://www.sublimelinter.com/en/latest/) : 문법 검사
+  - [SublimeLinter-contrib-htmlhint](https://github.com/mmaday/SublimeLinter-contrib-htmlhint) : HTML 문법 검사 
+  - [SublimeLinter-contrib-csslint](https://github.com/SublimeLinter/SublimeLinter-csslint) : CSS 문법 검사
+  - [SublimeLinter-contrib-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint) : Javascript 문법 검사 
+- [DashDoc](https://kapeli.com/docsets) : API (Mac OS Only) - [DashDoc](https://kapeli.com/dash)이 설치되어 있어야 한다. 
+  - `{ "keys": ["super+.", "super+h"], "command": "dash_doc" }`
+- [CanIUse](http://timkl.xyz/sublime-text-caniuse/): Support check
+  - `{ "keys: ["super+.", "super+c"], "command": "use_it" }`
+- [HTML-CSS-JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify) : HTML, CSS, JS 코드를 예쁘게 
+  - `super+shift+h`
+- [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson) : JSON 구조 코드 예쁘게 
+  - `super+ctrl+j`
+- [Terminal](https://github.com/wbond/sublime_terminal) : Sublime Text에서 터미널 열기
+  - `super+shift+t`, `super+alt+shift`
+- [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer) : package resource viewer
+- [Emmet](http://emmet.io/) : HTML과 CSS를 abbreviation & snippet
+  - Emmet의 abbreviation과 snippet을 사용하기 때문에 ST3의 기본 CSS젠코딩 기능을 제거
+    - `Completion Rules.tmPreferences, css_completions.py을 "PackageResourceViewer"`를 이용하여 주석 및 파일 내용삭제
+  - Emmet의 HTML기능은 기본문법을 보완한 이유로 ST3의 기본기능과 겹치지 않기에 제거하지 않는다. 
+- [Live Style](http://livestyle.emmet.io/) : CSS 양방향 편집 기능(오직 서브라임에서만 사용 가능)
+  - ※파일 URL 형식이 아니라 도메인 및 IP형식으로만 사용 가능
+  - Node.js환경 미사용시 `http-server`만 별도로 설치하여 사용하는 것을 추천
+- [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) : 마크다운 문서 미리보기
+  - `{ "keys": ["super+.", "super+p"], "command": "markdown_preview", "args": {"target": "browser", "parser": "github"} }`
+- [Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended) : 마크다운 문법
+- [Gist](https://gist.github.com) : Gist 관리
+- [Syntax Highlighting for Sass](https://github.com/P233/Syntax-highlighting-for-Sass) : Sass, SCSS hightlighting
+  - `Brows packges에서 Syntax Highlighting for Sass > Completions` 폴더 삭제, 단 해당 패키지는 코드 하이라이팅만 사용 가능하다. 
