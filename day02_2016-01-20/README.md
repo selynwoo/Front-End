@@ -15,7 +15,7 @@ _Create Branch_
 ![Create Branch](../Resources/images/branch.jpg)
 
 ## [GitPages](https://pages.github.com/)
-Github의 Repositories를 이용하여 Github 2차 도메인을 사용할 수 있다. (http://selynwoo.github.io/Front-End/)
+Github의 Repositories를 이용하여 Github 2차 도메인을 사용할 수 있다. (http://selynwoo.github.io/FrontEndStudy/)
 
 ## [Gist](https://gist.github.com/discover)
 Github는 프로젝트 단위로 파일들을 관리, Gist는 파일 단위로 코드 관리 
